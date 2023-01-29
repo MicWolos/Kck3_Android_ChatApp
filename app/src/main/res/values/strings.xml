@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Kontakty</string>
+    <string name="logout">Czy na pewno chcesz się wylogować?</string>
+    <string name="help" translatable="false">Jeśli masz jakieś pytania lub aplikacja nie działa u Ciebie poprawie zadzwoń do nas: +48 111 222 333</string>
+
+
+
+</resources>
